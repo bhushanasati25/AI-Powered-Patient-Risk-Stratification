@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Raj",
+      "disease": "Hypertension",
+      "appointment_date": "25 Sep 2024",
+      "risk": "Low"
+    },
+    {
+      "name": "Manas",
+      "disease": "Diabetes",
+      "appointment_date": "20 Sep 2024",
+      "risk": "High"
+    },
+    {
+        "name": "Raj",
+        "disease": "Hypertension",
+        "appointment_date": "25 Sep 2024",
+        "risk": "Low"
+      },
+      {
+        "name": "Manas",
+        "disease": "Diabetes",
+        "appointment_date": "20 Sep 2024",
+        "risk": "High"
+      },
+      {
+        "name": "Raj",
+        "disease": "Hypertension",
+        "appointment_date": "25 Sep 2024",
+        "risk": "Low"
+      },
+      {
+        "name": "Manas",
+        "disease": "Diabetes",
+        "appointment_date": "20 Sep 2024",
+        "risk": "High"
+      }
+  ]
+  
